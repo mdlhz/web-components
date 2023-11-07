@@ -1,5 +1,5 @@
 {
-  "name": "enhance-workshop-ottawa",
+  "name": "portfolio",
   "version": "0.0.1",
   "scripts": {
     "start": "npx enhance dev",

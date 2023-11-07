@@ -10,6 +10,7 @@ export default function SiteFooter({ html, state }) {
     <footer class='pbe6'>
       <site-container>
         <text-container class='mi-auto text-center border-solid border-bs1 pbs3'>
+          <social-links github="mdlhz" linkedin="mdelahoz"></social-links>
           <p class='text-1'>
             &copy; ${new Date().getFullYear()} ${author.name}</span>
           </p>
